@@ -1,0 +1,15 @@
+{
+    "users": {
+        "default": {
+            "tops": [],
+            "bottoms": [],
+            "dresses": [],
+            "accessories": [],
+            "shoes": []
+        }
+    },
+    "metadata": {
+        "version": "1.0",
+        "last_updated": null
+    }
+} 
